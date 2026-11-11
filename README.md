@@ -20,6 +20,7 @@
   - [CONTRIBUTING](docs/CONTRIBUTING.md)
   - [Tech Stack](#tech-stack)
   - [Screenshots](#screenshots)
+  - [One-Click Deploy](#one-click-deploy)
   - [Credits](#credits)
 
 <br />
@@ -65,6 +66,12 @@
 ![Canadian Map](https://user-images.githubusercontent.com/11009228/201794259-20e3f9b5-b126-4c8d-8cb0-820b6f16da0a.png)
 
 ![Example Pop-up](https://user-images.githubusercontent.com/11009228/201492766-4c1a7614-6d48-411f-90e4-97ac9a6f4ca1.png)
+
+<br />
+
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Scratch%20Map/)
 
 <br />
 
